@@ -1,5 +1,5 @@
 sum=0
-count=0
+count=0 
 for i in $@
 do
 let sum=sum+$i

@@ -1,3 +1,3 @@
-pwd
+pwd 
 date
 printenv PATH
